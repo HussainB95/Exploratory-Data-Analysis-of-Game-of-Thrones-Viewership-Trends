@@ -21,8 +21,7 @@ This project analyzes Game of Thrones episode viewership trends using Python.
 - Viewership grew steadily over time
 
 ## Visualizations
-- Average Viewers by Season
-- <img width="841" height="542" alt="viewers_by_season" src="https://github.com/user-attachments/assets/49934487-7fc5-461f-9ab4-1b72def0d2c8" />
+- Average Viewers by Season<img width="841" height="542" alt="viewers_by_season" src="https://github.com/user-attachments/assets/49934487-7fc5-461f-9ab4-1b72def0d2c8" />
 
 
 
